@@ -1,0 +1,14 @@
+[
+    {
+        "roleId": 1,
+        "roleName": "営業担当者"
+    },
+    {
+        "roleId": 2,
+        "roleName": "開発者"
+    },
+    {
+        "roleId": 3,
+        "roleName": "テスター"
+    }
+]

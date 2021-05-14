@@ -1,0 +1,37 @@
+[
+    {
+        "clientCode": "000000000001",
+        "clientName": "クラウディオ",
+        "phoneNumber": null,
+        "email": null,
+        "address": null
+    },
+    {
+        "clientCode": "000000000002",
+        "clientName": "リブネロ",
+        "phoneNumber": null,
+        "email": null,
+        "address": null
+    },
+    {
+        "clientCode": "000000000003",
+        "clientName": "YC",
+        "phoneNumber": null,
+        "email": null,
+        "address": null
+    },
+    {
+        "clientCode": "000000000004",
+        "clientName": "ITOKI",
+        "phoneNumber": null,
+        "email": null,
+        "address": null
+    },
+    {
+        "clientCode": "000000000005",
+        "clientName": "NHK",
+        "phoneNumber": null,
+        "email": null,
+        "address": null
+    }
+]

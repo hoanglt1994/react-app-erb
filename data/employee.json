@@ -1,0 +1,90 @@
+[
+    {
+        "employeeCode": "000000000001",
+        "employeeName": "モウ　ブングン",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    },
+    {
+        "employeeCode": "000000000002",
+        "employeeName": "リュウ　グントウ",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    },
+    {
+        "employeeCode": "000000000003",
+        "employeeName": "平野　裕子",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    },
+    {
+        "employeeCode": "000000000004",
+        "employeeName": "川崎　俊",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    },
+    {
+        "employeeCode": "000000000005",
+        "employeeName": "三原　宏平",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    },
+    {
+        "employeeCode": "000000000006",
+        "employeeName": "三原　宏平（兼任）",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    },
+    {
+        "employeeCode": "000000000007",
+        "employeeName": "岡本　純美江",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    },
+    {
+        "employeeCode": "000000000008",
+        "employeeName": "沖　彩夏",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    },
+    {
+        "employeeCode": "000000000009",
+        "employeeName": "貝谷　亜由美",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    },
+    {
+        "employeeCode": "000000000010",
+        "employeeName": "兼森　久美子",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    },
+    {
+        "employeeCode": "000000000011",
+        "employeeName": "重野　真優",
+        "departmentName": null,
+        "email": null,
+        "postalCode": null,
+        "phoneNumber": null
+    }
+]

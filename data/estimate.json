@@ -1,0 +1,16 @@
+[
+    {
+        "estimateCode": "000000000011",
+        "serviceId": 1,
+        "status": "020",
+        "estimateDate": "2021/03/31 9:00:00",
+        "orderFlg": true
+    },
+    {
+        "estimateCode": "000000000021",
+        "serviceId": 2,
+        "status": "020",
+        "estimateDate": "2021/03/31 9:00:00",
+        "orderFlg": true
+    }
+]

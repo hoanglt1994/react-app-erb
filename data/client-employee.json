@@ -1,0 +1,106 @@
+[
+    {
+        "clientEmployeeCode": "000000000001",
+        "clientEmployeeName": "須藤",
+        "clientCode": "000000000002",
+        "departmentName": "コーポレート部",
+        "phoneNumber": "0123456789",
+        "email": "example.1@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000002",
+        "clientEmployeeName": "中山",
+        "clientCode": "000000000004",
+        "departmentName": "企画本部",
+        "phoneNumber": "0654321987",
+        "email": "example.2@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000003",
+        "clientEmployeeName": "大伴",
+        "clientCode": "000000000004",
+        "departmentName": "営業本部",
+        "phoneNumber": "0234567891",
+        "email": "example.3@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000004",
+        "clientEmployeeName": "押野",
+        "clientCode": "000000000004",
+        "departmentName": "企画本部",
+        "phoneNumber": "0345678912",
+        "email": "example.4@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000005",
+        "clientEmployeeName": "SSO サンプルユーザー",
+        "clientCode": "000000000001",
+        "departmentName": "企画本部",
+        "phoneNumber": "0456789123",
+        "email": "example.5@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000006",
+        "clientEmployeeName": "西川　政美",
+        "clientCode": "000000000001",
+        "departmentName": "テスト本部",
+        "phoneNumber": "0567891234",
+        "email": "example.6@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000007",
+        "clientEmployeeName": "山口　真利果",
+        "clientCode": "000000000001",
+        "departmentName": "企画本部",
+        "phoneNumber": "0678912345",
+        "email": "example.7@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000008",
+        "clientEmployeeName": "小田　早織",
+        "clientCode": "000000000001",
+        "departmentName": "営業本部",
+        "phoneNumber": "0789123456",
+        "email": "example.8@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000009",
+        "clientEmployeeName": "モウ　ブングン",
+        "clientCode": "000000000003",
+        "departmentName": "企画本部",
+        "phoneNumber": "0891234567",
+        "email": "example.9@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000010",
+        "clientEmployeeName": "大下　裕司",
+        "clientCode": "000000000003",
+        "departmentName": "テスト本部",
+        "phoneNumber": "0912345678",
+        "email": "example.10@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000011",
+        "clientEmployeeName": "タン",
+        "clientCode": "000000000005",
+        "departmentName": "テスト本部",
+        "phoneNumber": "0987654321",
+        "email": "example.11@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000012",
+        "clientEmployeeName": "沖　彩夏",
+        "clientCode": "000000000002",
+        "departmentName": "企画本部",
+        "phoneNumber": "0876543219",
+        "email": "example.12@mail.com"
+    },
+    {
+        "clientEmployeeCode": "000000000013",
+        "clientEmployeeName": "クン",
+        "clientCode": "000000000005",
+        "departmentName": "企画本部",
+        "phoneNumber": "0765432198",
+        "email": "example.13@mail.com"
+    }
+]

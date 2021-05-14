@@ -1,0 +1,46 @@
+[
+    {
+        "employeeCode": "000000000001",
+        "roleId": 1
+    },
+    {
+        "employeeCode": "000000000002",
+        "roleId": 2
+    },
+    {
+        "employeeCode": "000000000003",
+        "roleId": 3
+    },
+    {
+        "employeeCode": "000000000004",
+        "roleId": 1
+    },
+    {
+        "employeeCode": "000000000005",
+        "roleId": 2
+    },
+    {
+        "employeeCode": "000000000006",
+        "roleId": 3
+    },
+    {
+        "employeeCode": "000000000007",
+        "roleId": 1
+    },
+    {
+        "employeeCode": "000000000008",
+        "roleId": 2
+    },
+    {
+        "employeeCode": "000000000009",
+        "roleId": 2
+    },
+    {
+        "employeeCode": "000000000010",
+        "roleId": 2
+    },
+    {
+        "employeeCode": "000000000011",
+        "roleId": 2
+    }
+]

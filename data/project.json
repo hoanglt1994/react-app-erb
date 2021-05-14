@@ -1,0 +1,18 @@
+[
+    {
+        "projectCode": "00000001",
+        "projectName": "市ヶ谷プロジェクト"
+    },
+    {
+        "projectCode": "00000002",
+        "projectName": "四谷プロジェクト"
+    },
+    {
+        "projectCode": "00000003",
+        "projectName": "渋谷プロジェクト"
+    },
+    {
+        "projectCode": "00000004",
+        "projectName": "新宿プロジェクト"
+    }
+]

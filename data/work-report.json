@@ -1,0 +1,10 @@
+[
+    {
+        "workReportId": 11,
+        "invoiceId": 1,
+        "title": null,
+        "workingTime": 320,
+        "workInfo": "作業1：",
+        "relatedDocument": "ドキュメント1"
+    }
+]
